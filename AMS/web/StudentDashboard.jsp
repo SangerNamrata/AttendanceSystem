@@ -121,6 +121,45 @@ List down the notifications.
         <!-- /header -->
         <!-- Header-->
         <div class="content mt-3">
+                        <p class="heading">
+                Dashboard
+            </p>
+            <div class="head">
+                <div class="column1">
+                    <div class="icon1">
+                        <i class="fa fa-tags fa-4x i"></i>
+                    </div>
+                    <div class="text1">
+                         Attendance
+                    </div>
+                    <div class="textt1">
+                        My Attendance
+                    </div>
+                </div>
+                <div class="column2">
+                    <div class="icon2">
+                    </div>
+                    <div class="text2">
+                    </div>
+                    <div class="textt2">
+                    </div>
+                </div>
+                <div class="column3">
+                    <div class="icon3">
+                    </div>
+                    <div class="text3">
+                    </div>
+                    <div class="textt3">
+                    </div>
+                </div>
+                <div class="column4">
+                    <div class="icon4">
+                    </div>
+                    <div class="text4">
+                    </div>
+                    <div class="textt4">
+                    </div>
+            </div>
         </div> <!-- .content -->
     </div>
     <!-- /#right-panel -->
