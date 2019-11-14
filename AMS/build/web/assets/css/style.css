@@ -2459,3 +2459,134 @@ header .form-inline {
         .right-panel .content #bootstrap-data-table_wrapper .table td,
         .right-panel .content #bootstrap-data-table_wrapper .table th {
           padding: 5px; } }
+
+.heading{
+    margin-left:3px;
+    margin-bottom:20px;
+    font-size:30px;
+    color:#000000;
+}
+.i{
+    margin-left:15px;
+    margin-top:20px;
+    color:#ffffff;
+}
+.column1{
+    margin-left:3px;
+    width:240px;
+    height:140px;
+    background-color: aqua;
+    border-radius: 3px;
+    box-shadow: 1px 1px 10px 1px #000000;
+    position: absolute;
+}
+.icon1{
+    width:80px;
+    height:110px;
+    background-color: #27A9E3;
+    position: absolute;
+}
+.text1{
+    margin-left:80px;
+    width:160px;
+    height:110px;
+    background-color: #27A9E3;
+    padding-left:35px;
+    padding-top:40px;
+    font-size:25px;
+    color:#ffffff;
+    font-family: "Calibri Light"
+}
+.textt1{
+    width:240px;
+    height:30px;
+    background-color:#2295C9;
+    padding-left:10px;
+    color:#ffffff;
+    text-transform: uppercase;
+    font-family: "Calibri Light"
+}
+
+.column2{
+    margin-left:270px;
+    width:240px;
+    height:140px;
+    background-color: #852B99;
+    border-radius: 3px;
+    box-shadow: 1px 1px 10px 1px #000000;
+    position: absolute;
+}
+.icon2{
+    width:90px;
+    height:110px;
+    background-color: #28B779;
+    position: absolute;
+}
+.text2{
+    margin-left:70px;
+    width:170px;
+    height:110px;
+    background-color: #28B779;
+    position: fixedl
+}
+.textt2{
+    width:240px;
+    height:30px;
+    background-color:#17A769;
+}
+
+.column3{
+    margin-left:540px;
+    width:240px;
+    height:140px;
+    background-color: aqua;
+    border-radius: 3px;
+    box-shadow: 1px 1px 10px 1px #000000;
+    position: absolute;
+}
+.icon3{
+    width:90px;
+    height:110px;
+    background-color: #852B99;
+    position: absolute;
+}
+.text3{
+    margin-left:70px;
+    width:170px;
+    height:110px;
+    background-color: #852B99;
+    position: fixedl
+}
+.textt3{
+    width:240px;
+    height:30px;
+    background-color:#741D87;
+}
+
+.column4{
+    margin-left:810px;
+    width:240px;
+    height:140px;
+    background-color: aqua;
+    border-radius: 3px;
+    box-shadow: 1px 1px 10px 1px #000000;
+    position: absolute;
+}
+.icon4{
+    width:90px;
+    height:110px;
+    background-color: #FFB848;
+    position: absolute;
+}
+.text4{
+    margin-left:70px;
+    width:170px;
+    height:110px;
+    background-color: #FFB848;
+    position: fixedl
+}
+.textt4{
+    width:240px;
+    height:30px;
+    background-color:#DB9629;
+}
